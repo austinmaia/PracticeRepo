@@ -8,4 +8,8 @@ output: html_document
 
 ## This is my test repo!
 
-My name is *Maia*.
+
+# My name is **Maia**. I am a *PhD* student at the University of Vermont.
+
+
+I am making a web page to practice for my *computational biology* course.
