@@ -16,3 +16,8 @@ output:
 
 
 I am making a web page to practice for my *computational biology* course.
+
+#####Test Link: [Link Title](FakeHW.html)
+
+
+<img src="Irises.jpg" width = "200" height = "200" />
